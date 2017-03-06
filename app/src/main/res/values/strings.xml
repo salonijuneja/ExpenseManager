@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calc">Calc</string>
+    <string name="title_activity_week">WeekActivity</string>
+    <string name="title_activity_income">Income</string>
+    <string name="title_activity_expense">Expense</string>
+    <string name="title_activity_year">YearActivity</string>
+    <string name="title_activity_day">DayActivity</string>
+</resources>
